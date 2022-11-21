@@ -4,7 +4,7 @@
 - 📫 How to reach me:
   - [Code](https://github.com/rpunt)
   - [Resume](http://mirum.org/)
-  - [Mastodon]([https://](https://hachyderm.io/@rpunt)
+  - [Mastodon](https://hachyderm.io/@rpunt)
 
 <!---
 rpunt/rpunt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
